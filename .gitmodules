@@ -1,0 +1,11 @@
+[submodule "vscode-extensions/compare-folders"]
+	path = vscode-extensions/compare-folders
+	url = https://github.com/mordertehmod/vscode-compare
+	branch = master
+[submodule "vscode-source"]
+	path = vscode-source
+	url = https://github.com/mordertehmod/vscode-blur
+	branch = feat-customdiff
+[submodule "vscode-docs"]
+	path = vscode-docs
+	url = https://github.com/microsoft/vscode-docs
